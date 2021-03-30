@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tr0nic
-- 👀 I’m interested in software securit and web development.
+- 👀 I’m interested in software security and web development.
 - 🌱 I’m currently learning hardware and software security as well as variety of coding languages, include Java, C, C++, PHP, HTML,CSS, and JS.
 - 💞️ I’m looking to collaborate on tools that make the internet a safer place.
 - 📫 How to reach me Twitter: @ABoyAndHisWAP
